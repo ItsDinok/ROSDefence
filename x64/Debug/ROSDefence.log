@@ -1,0 +1,14 @@
+﻿  FileManager.cpp
+C:\Users\markd\Desktop\Projects\ROSDefence\FileManager.h(4,1): warning C4005: 'UNICODE': macro redefinition
+C:\Users\markd\Desktop\Projects\ROSDefence\FileManager.cpp : message : see previous definition of 'UNICODE'
+C:\Users\markd\Desktop\Projects\ROSDefence\FileManager.h(5,1): warning C4005: '_UNICODE': macro redefinition
+C:\Users\markd\Desktop\Projects\ROSDefence\FileManager.cpp : message : see previous definition of '_UNICODE'
+C:\Users\markd\Desktop\Projects\ROSDefence\FileManager.cpp(71,91): warning C4312: 'type cast': conversion from 'DWORD' to 'FILE_NOTIFY_INFORMATION *' of greater size
+  MemoryManager.cpp
+  ROSDefence.cpp
+C:\Users\markd\Desktop\Projects\ROSDefence\FileManager.h(4,1): warning C4005: 'UNICODE': macro redefinition
+C:\Users\markd\Desktop\Projects\ROSDefence\ROSDefence.cpp : message : see previous definition of 'UNICODE'
+C:\Users\markd\Desktop\Projects\ROSDefence\FileManager.h(5,1): warning C4005: '_UNICODE': macro redefinition
+C:\Users\markd\Desktop\Projects\ROSDefence\ROSDefence.cpp : message : see previous definition of '_UNICODE'
+  Generating Code...
+  ROSDefence.vcxproj -> C:\Users\markd\Desktop\Projects\ROSDefence\x64\Debug\ROSDefence.exe

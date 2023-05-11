@@ -14,8 +14,9 @@
 int main()
 {
     std::cout << "Hello World!\n";
+
+
     //FileManager watcher = FileManager("C:\\Users\\markd\\Desktop\\Test");
     //watcher.CheckDirectoryChanges();
-
-    MemoryManager memWatch = MemoryManager("pythonw.exe");
+    //MemoryManager memWatch = MemoryManager("pythonw.exe");
 }
